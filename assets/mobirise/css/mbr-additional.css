@@ -1435,7 +1435,7 @@ body {
 .cid-qZ0jVVLPlX {
   padding-top: 60px;
   padding-bottom: 60px;
-  background-color: #879a9f;
+  background-color: #ffffff;
 }
 .cid-qZ0jVVLPlX .testimonials-container {
   margin: 0 auto;
@@ -1445,7 +1445,7 @@ body {
   margin-top: 3rem;
 }
 .cid-qZ0jVVLPlX .testimonials-container .testimonials-item .user {
-  background: #d6edc3;
+  background: #b2ccd2;
 }
 .cid-qZ0jVVLPlX .testimonials-container .testimonials-item .user.row {
   margin: 0;
@@ -1475,6 +1475,12 @@ body {
   .cid-qZ0jVVLPlX .testimonials-caption {
     padding: 0 2rem 2rem 2rem !important;
   }
+}
+.cid-qZ0jVVLPlX H2 {
+  color: #b2ccd2;
+}
+.cid-qZ0jVVLPlX .mbr-section-subtitle {
+  color: #b2ccd2;
 }
 .cid-qZ0km44wHR {
   padding-top: 45px;
