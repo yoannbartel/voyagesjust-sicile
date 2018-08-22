@@ -51,10 +51,10 @@ body {
 }
 .display-7 {
   font-family: 'Source Sans Pro', sans-serif;
-  font-size: 1.5rem;
+  font-size: 1.2rem;
 }
 .display-7 > .mbr-iconfont {
-  font-size: 2.4rem;
+  font-size: 1.92rem;
 }
 /* ---- Fluid typography for mobile devices ---- */
 /* 1.4 - font scale ratio ( bootstrap == 1.42857 ) */
@@ -624,13 +624,13 @@ a:hover {
   box-shadow: none;
   color: #565656;
   font-family: 'Source Sans Pro', sans-serif;
-  font-size: 1.5rem;
+  font-size: 1.2rem;
   line-height: 1.43;
   min-height: 3.5em;
   padding: 1.07em .5em;
 }
 .form-control > .mbr-iconfont {
-  font-size: 2.4rem;
+  font-size: 1.92rem;
 }
 .form-control,
 .form-control:focus {
@@ -1339,12 +1339,12 @@ body {
   height: auto;
   min-height: 100vh;
 }
-.cid-qYPrwFoLEB {
+.cid-r0HGKMugg9 {
   padding-top: 0px;
   padding-bottom: 90px;
   background-color: #5b686b;
 }
-.cid-qYPrwFoLEB .mbr-figure {
+.cid-r0HGKMugg9 .mbr-figure {
   margin: 0 auto;
 }
 .cid-qYPqm6SOhQ {
@@ -1481,6 +1481,20 @@ body {
 }
 .cid-qZ0jVVLPlX .mbr-section-subtitle {
   color: #b2ccd2;
+}
+.cid-r1lF7hhXbt {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #eff2c9;
+}
+.cid-r1lF7hhXbt .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-r1lF7hhXbt .btn {
+  margin: 0 0 .5rem 0;
+}
+.cid-r1lF7hhXbt H2 {
+  text-align: center;
 }
 .cid-qZ0km44wHR {
   padding-top: 45px;
